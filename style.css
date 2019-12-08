@@ -1,7 +1,7 @@
 
 body{
     background-color: rgb(253, 244, 234);
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
 .carousel,
@@ -20,11 +20,11 @@ body{
     padding-left: 100px;
     padding-right: 100px;
     margin-bottom: 0px;
-    border: 1px solid green;
+    border: 1px solid green;/
 }
 .slid{
   
-  border: 1px solid green;
+  /* border: 1px solid green; */
   padding: 0px;
 }
 .slid img{
@@ -37,7 +37,7 @@ body{
     padding-left: 100px;
     padding-right: 90px;
     line-height: 24px;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     font-size: 14px;
 }
 .member img{
@@ -49,20 +49,20 @@ body{
     height: 600px;
     margin-top: -600px;
     position: relative;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .headings{
     margin-top: -200px;
     position: relative;
     color: white;
     padding-left: 650px;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 
 }
 .headings p{
     width: 70%;
     text-align: center;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     margin-left: 45px;
 }
 .work{
@@ -77,7 +77,7 @@ body{
     padding-right: 100px;
     margin-bottom: 0px;
     font-size: 18px;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
     
@@ -87,7 +87,7 @@ body{
     width: 100%;
     margin-bottom: 50px;
     text-align: center;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .bord{
     border: 1px solid black;
@@ -101,7 +101,7 @@ body{
     padding-left: 8px;
     margin-left: 42%;
     text-align: center;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 /* .image_holder {
     width: 20%;
